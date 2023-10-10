@@ -224,7 +224,8 @@ h2 {
 }
 
 .ingreso .elemento_valor,
-.ingreso .elemento_eliminar--btn {
+.ingreso .elemento_valor,
+.ingreso .elemento_eliminar--btn{
   color: #28B9B5;
 }
 
@@ -267,3 +268,6 @@ h2 {
 
 .no_pagado .elemento_porcentaje { box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.1); }
 .no_pagado:hover .elemento_descripcion { font-weight: 900; }
+
+
+
